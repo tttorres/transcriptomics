@@ -4,8 +4,8 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://tttorres.github.io/introprog"
-baseurl: "/introprog"
+url: "http://tttorres.github.io/transcriptomics"
+baseurl: "/transcriptomics"
 
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
@@ -14,10 +14,10 @@ baseurl: "/introprog"
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: BIO0454 / BIO5793 2018
+title: Transcriptomics
 
 # Short description of your site
-description: Introdução à Programação de Computadores para Biologia
+description: Transcriptomics at UNMSM
 
 # --- Navigation bar options --- #
 
@@ -26,19 +26,14 @@ navbar-links:
   Home: "index.html"
   Programa: "programa/"
   Aulas:
-    - Aula01: "2018-08-03-Aula01/"
-    - Aula02: "2018-08-03-Aula02/"
-    - Aula03: "2018-08-17-Aula03/"
-    - Aula04: "2018-08-24-Aula04/"
-    - Aula05: "2018-08-31-Aula05/"
-    - Aula06: "2018-09-14-Aula06/"    
-    - Aula07: "2018-09-21-Aula07/"  
-    - Aula08: "2018-09-28-Aula08/"  
-    - Aula09: "2018-10-18-Aula09/"  
-    - Aula10: "2018-10-18-Aula10/"  
+    - Day01: "2025-01-24-Day01/"
+    - Aula02: "2018-08-03-Day02/"
+    - Aula03: "2018-08-17-Day03/"
+    - Aula04: "2018-08-24-Day04/"
+    - Aula05: "2018-08-31-Day05/"
+    - Aula06: "2018-09-14-Day06/"    
+    - Aula07: "2018-09-21-Resources/"   
   Ementa: "ementa/"
-  Grupos: "grupos/"
-  
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar

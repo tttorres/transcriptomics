@@ -24,16 +24,16 @@ description: Transcriptomics at UNMSM
 # List of links in the navigation bar
 navbar-links:
   Home: "index.html"
-  Programa: "programa/"
-  Aulas:
+  Syllabus: "syllabus/"
+  Lectures:
     - Day01: "2025-01-24-Day01/"
-    - Aula02: "2018-08-03-Day02/"
-    - Aula03: "2018-08-17-Day03/"
-    - Aula04: "2018-08-24-Day04/"
-    - Aula05: "2018-08-31-Day05/"
-    - Aula06: "2018-09-14-Day06/"    
-    - Aula07: "2018-09-21-Resources/"   
-  Ementa: "ementa/"
+    - Day02: "2018-08-03-Day02/"
+    - Day03: "2018-08-17-Day03/"
+    - Day04: "2018-08-24-Day04/"
+    - Day05: "2018-08-31-Day05/"
+    - Day06: "2018-09-14-Day06/"    
+    #- Aula07: "2018-09-21-Resources/"   
+  Resources: "resources/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
